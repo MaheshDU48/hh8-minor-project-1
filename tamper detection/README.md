@@ -35,3 +35,6 @@ This project monitors file integrity by generating cryptographic hashes and dete
 baseline.py run:
 command-python baseline.py
 ![Image](https://github.com/user-attachments/assets/cba516b3-c27b-4481-b84c-496ce530bcf6)
+
+monitor.py run
+![Image](https://github.com/user-attachments/assets/a453c4ac-e821-408c-a6cd-1a8e786adf15)
