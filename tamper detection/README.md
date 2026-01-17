@@ -31,3 +31,7 @@ This project monitors file integrity by generating cryptographic hashes and dete
 - Monitor .env and configuration files
 - Store baseline hashes securely
 - Run integrity checks periodically
+
+baseline.py run:
+command-python baseline.py
+![Image](https://github.com/user-attachments/assets/cba516b3-c27b-4481-b84c-496ce530bcf6)
